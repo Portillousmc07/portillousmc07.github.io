@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="container">
+  <h1>{{ page.title }}</h1>
+
+  <div class="row">
+    <div class="col">
+      <h2>Ryan Reynolds</h2>
+
+      <h3>Strengths</h3>
+      <ul>
+        {% for item in page.reynolds.strengths %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h3>Weaknesses</h3>
+      <ul>
+        {% for item in page.reynolds.weaknesses %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col">
+      <h2>Ryan Gosling</h2>
+
+      <h3>Strengths</h3>
+      <ul>
+        {% for item in page.gosling.strengths %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h3>Weaknesses</h3>
+      <ul>
+        {% for item in page.gosling.weaknesses %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="mt-4">
+    {{ content }}
+  </div>
+</div>
