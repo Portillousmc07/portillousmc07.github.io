@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Trying to fill in these blanks
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Byron Portillo. I have the following things to say
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a father of 4, blessed with 2 boys and 2 girls
+- Proud Marine Corps Veteran
+- SoCal Born and of El Salvadorean descent
+- Married for going on 14+ years
+- Fan of all the Northwest teams (Blazers, Mariners, Seahawks, Kraken)
+- Movie buff
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Just a brief overview, I was born in Ventura California to El Salvadorean immigrants, joined the Marine Corps after graduating High School in 2007, deployed to Iraq in 2009, married my high school sweet heart in 2011, we had four kids and moved to Pittsburgh, New Orleans, North Carolina, and Kansas City where I was honorably discharged after 13 years. My wife and I and our 4 kids now consider ourselfs Kansas Citians and enjoy living the midwest life. 
