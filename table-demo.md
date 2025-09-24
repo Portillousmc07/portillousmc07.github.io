@@ -13,7 +13,7 @@ reynolds:
 gosling:
   strengths:
     - builds houses
-  - is a real boy
+    - is a real boy
     - never dated alanis morissette
   weaknesses:
     - micky mouse club
