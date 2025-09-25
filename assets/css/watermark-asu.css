@@ -1,0 +1,21 @@
+
+body::before {
+  content: "";
+  position: fixed;                    
+  inset: 0;                           
+  background: url("/assets/img/Sparky.png.jpeg") center 25% / 520px no-repeat;
+  opacity: 0.06;                      
+  pointer-events: none;              
+  z-index: 0;                        
+}
+
+
+main, .container, .page, .post, .page-content {
+  position: relative;
+  z-index: 1;
+}
+
+
+@media (max-width: 600px) {
+  body::before { background-size: 320px; opacity: 0.05; }
+}
