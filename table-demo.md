@@ -1,6 +1,8 @@
 ---
 layout: liquid-table
 title: "amiright?"
+css:
+  - /assets/css/watermark-asu.css
 reynolds:
   strengths:
     - good father
