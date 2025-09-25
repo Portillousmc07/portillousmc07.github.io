@@ -28,9 +28,9 @@ round-avatar: true
 
 social-network-links:
   email: "bjportil@asu.edu"
-  github: "https://github.com/Portillousmc07"
-  linkedin: "www.linkedin.com/in/byronportillo"
-  twitter: "https://x.com/fubar3824"
+  github: "Portillousmc07"
+  linkedin: "byronportillo"
+  twitter: "fubar3824"
 
 # RSS description shows an RSS link in the footer if present
 rss-description: 
