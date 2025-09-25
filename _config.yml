@@ -17,7 +17,7 @@ navbar-links:
   Table Demo: "table-demo"              
   Author's home: "https://deanattali.com"
 
-# --- Logo --- #
+# --- Logo Trident--- #
 
 
 avatar: "/assets/img/asu_avatar.jpg"
@@ -34,7 +34,7 @@ social-network-links:
   linkedin: "byronportillo"
   twitter: "fubar3824"
 
-# RSS description shows an RSS link in the footer if present
+
 rss-description: 
 
 # --- General options --- #
@@ -47,7 +47,7 @@ share-links-active:
 
 url-pretty: "ByronPortillo.com/clean"
 
-excerpt_length: 40        # shorter summaries on blog feed
+excerpt_length: 40        
 feed_show_excerpt: true
 feed_show_tags: true
 
@@ -72,30 +72,6 @@ footer-text-col: "#FFFFFF"
 footer-link-col: "#FFC627"  
 
 mobile-theme-col: "#8C1D40" 
-
-
-# mobile-theme-col: "#0066CC"
-
-# --- Custom CSS/JS (optional) --- #
-# site-css:
-#   - "/assets/css/custom-styles.css"
-# site-js:
-#   - "/assets/js/custom-script.js"
-
-# --- Analytics (leave blank for now) --- #
-# gtag: ""
-# google_analytics: ""
-# cloudflare_analytics: ""
-# gtm: ""
-
-# --- Comments (disabled for now) --- #
-# disqus: ""
-# fb_comment_id: ""
-# utterances:
-#   repository: "Portillousmc07/portillousmc07.github.io"
-#   issue-term: title
-#   theme: github-light
-#   label: blog-comments
 
 # --- Misc --- #
 
