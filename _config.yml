@@ -9,7 +9,7 @@ author: Byron Portillo
 
 
 navbar-links:
-  About Me: "13 Year Marine Corps Veteran, SoCal Born, Kansas City living, Father of 4"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
