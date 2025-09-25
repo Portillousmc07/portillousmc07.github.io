@@ -1,41 +1,39 @@
-# --- Required options --- #
 
-# Name of website
+
+
 title: "Module 5 — Data Story Site"
 
-# Your name to show in the footer
+
 author: Byron Portillo
 
-# --- List of links in the navigation bar --- #
+
 
 navbar-links:
   About Me: "13 Year Marine Corps Veteran, SoCal Born, Kansas City living, Father of 4"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"     # added for lab
-  Table Demo: "table-demo"              # added for lab
+    - Getting Started: "getstarted"     
+  Table Demo: "table-demo"              
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
-# Replace with your own avatar if desired
+
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
-# title-img: /path/to/logo.png   # Uncomment if you want a logo instead of text
+
 
 # --- Footer social media links --- #
-# Replace with your real info or leave blank so icons still show but inactive
+
 social-network-links:
   email: "bjportil@asu.edu"
-  github: Portillousmc07
-  linkedin: www.linkedin.com/in/byronportillo
-  twitter: "isnt it X now? @fubar3824"
-  facebook: "I dislike social medial overall"
-  youtube: "To include youtube"
+  github: "https://github.com/Portillousmc07"
+  linkedin: "www.linkedin.com/in/byronportillo"
+  twitter: "https://x.com/fubar3824"
 
 # RSS description shows an RSS link in the footer if present
-rss-description: "This website is a virtual proof that I'm awesome, and to include that I completed this assignment, of course."
+rss-description: 
 
 # --- General options --- #
 
@@ -54,18 +52,25 @@ feed_show_tags: true
 post_search: true         # enable search in the navbar
 
 # --- Colours / background image --- #
-# Demonstrates you customized the palette
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#222222"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#333333"
-link-col: "#0066CC"
-hover-col: "#004C99"
-footer-col: "#F5F5F5"
-footer-text-col: "#555555"
-footer-link-col: "#222222"
+# Maroon: #8C1D40   Gold: #FFC627   Dark Maroon: #6E1632
+
+navbar-col: "#8C1D40"       
+navbar-text-col: "#FFFFFF"  
+navbar-border-col: "#6E1632"
+
+page-col: "#FFFFFF"         
+text-col: "#1F1F1F"         
+
+link-col: "#8C1D40"        
+hover-col: "#FFC627"        
+
+footer-col: "#8C1D40"       
+footer-text-col: "#FFFFFF"  
+footer-link-col: "#FFC627"  
+
+mobile-theme-col: "#8C1D40" 
+
 
 # mobile-theme-col: "#0066CC"
 
