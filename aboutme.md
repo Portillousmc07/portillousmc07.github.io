@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: "aboutme"
 subtitle: Trying to fill in these blanks
 ---
 
