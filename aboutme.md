@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "aboutme"
-subtitle: Trying to fill in these blanks
+subtitle: "13-year Marine Corps Veteran · SoCal born · Kansas City living · Father of 4"
+css:
+  - /assets/css/watermark-asu.css
 ---
 
 My name is Byron Portillo. I have the following things to say
